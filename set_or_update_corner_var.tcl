@@ -1,9 +1,8 @@
 ﻿################################################################################
-# Name: set_or_update_corne_var                                                #
+# Name: set_or_update_corner_var                                               #
 # Purpose: this script sets or updates corner variables in a simulation        #
 #          creating unique names for new corners or serching for existing ones #
 # Release: 12/Jan/2021                                                         #
-# Author: James Mutumba @ EDA Solutions Ltd.                                   #
 # Contact: Support@eda-solutions.com                                           #
 #                                                                              #
 # Please use this script at your own discretion and responsbility. Even though #
