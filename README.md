@@ -52,15 +52,15 @@ You must have an existing testbench set up in S-Edit whose corner variables you 
 
 ### Installation
 
-1. Open the project at **.insert local path of script here** with an editor. Preferrably [**vscode**](https://code.visualstudio.com/)
+1. Open the project at **https://github.com/EDA-Solutions-Limited/set_or_update_corner_variables.git** with an editor. Preferrably [**vscode**](https://code.visualstudio.com/)
 2. You could also clone the repo
    ```sh
    git clone https://github.com/EDA-Solutions-Limited/set_or_update_corner_variables.git
 
 <!-- MAKING CHANGES -->
 ## Usage
-* Drag and drop the tcl script into the S-Edit command window or
-* Go to Edit -> Execute Tcl to run the script
+* Edit the function "set_my_corners" with your desired corners 
+* Drag and drop the tcl script into the S-Edit command window or go to Edit -> Execute Tcl to run the script
 
 
 <!-- ROADMAP -->
@@ -85,11 +85,11 @@ Contributions are what makes EDA solutions the ultimate dream team. Any contribu
 <!-- LICENSE -->
 ## License
 
-Not to be distributed to anyone outside EDA solutions. 
+MIT
 
 <!-- CONTACT -->
 ## Contact
 
-James Mutumba  - jamesmutumba@eda-solutions.com
+support@eda-solutions.com
 
 Project Link: [set_or_update_corner_variables](https://github.com/EDA-Solutions-Limited/set_or_update_corner_variables)
